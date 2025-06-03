@@ -1,4 +1,4 @@
-# 💖 Pedido Fofo com Música 🎶
+# 💖 Pedido Fofo para a sua esposa 💖
 
 Este é um mini-projeto de uma página web interativa e divertida, feita com carinho.  
 A proposta é simples: um pedido de namoro com um toque de humor, estilo e música de fundo fofa!
@@ -10,7 +10,6 @@ A proposta é simples: um pedido de namoro com um toque de humor, estilo e músi
 - Página inicial com a pergunta: **"Você quer namorar comigo?"**
 - Botão "SIM" estático, levando a uma página de confirmação.
 - Botão "NÃO" que tenta fugir do cursor (porque ninguém quer ouvir um "não" 😢).
-- Música de fundo tocando automaticamente com botão de mute/unmute.
 - Estilo fofo e divertido, responsivo para diversas telas.
 - Créditos e Instagram no rodapé da página de confirmação (`sim.html`).
 

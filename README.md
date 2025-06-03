@@ -8,8 +8,8 @@ A proposta é simples: um pedido de namoro com um toque de humor, estilo e músi
 ## 🌟 Funcionalidades
 
 - Página inicial com a pergunta: **"Você quer namorar comigo?"**
-- Botão "SIM" estático, levando a uma página de confirmação.
-- Botão "NÃO" que tenta fugir do cursor (porque ninguém quer ouvir um "não" 😢).
+- Botão **"SIM"** estático, levando a uma página de confirmação.
+- Botão **"NÃO"** que tenta fugir do cursor (porque ninguém quer ouvir um "não" 😢).
 - Estilo fofo e divertido, responsivo para diversas telas.
 - Créditos e Instagram no rodapé da página de confirmação (`sim.html`).
 
@@ -18,7 +18,7 @@ A proposta é simples: um pedido de namoro com um toque de humor, estilo e músi
 ## 📁 Arquivos
 
 - `index.html`: Página com o pedido e botões interativos.
-- `sim.html`: Página de resposta para o botão "SIM", com música de fundo e créditos.
+- `sim.html`: Página de resposta para o botão "SIM", com créditos.
 - `README.md`: Este arquivo de documentação.
 
 ---

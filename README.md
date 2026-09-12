@@ -35,11 +35,11 @@ A proposta é simples: um pedido de namoro com um toque de humor, estilo e músi
 ## 🧑‍🎨 Autor
 
 Feito com 💖 por **Noelstudioss**  
-📷 [Instagram: @noelstudioss](https://instagram.com/noelstudioss)
+📷 [Instagram: @noelzin_](https://instagram.com/noelzin_)
 
 ---
 
 ## ⚠️ Licença
 
 Este projeto é de uso livre e divertido!  
-Sinta-se à vontade para personalizar, modificar e compartilhar! 😄
+Sinta-se à vontade para personalizar, modificar e compartilhar! 

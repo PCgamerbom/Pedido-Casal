@@ -1,46 +1,94 @@
-# 💖 Pedido Fofo com Música 🎶
+💗 Pedido Fofo
 
-Este é um mini-projeto de uma página web interativa e divertida, feita com carinho.  
-A proposta é simples: um pedido de namoro com um toque de humor, estilo e música de fundo fofa!
+Um site simples e romântico feito em HTML, CSS e JavaScript para fazer um pedido de namoro de um jeito fofo e divertido.
 
----
+✨ O que tem no projeto
 
-## 🌟 Funcionalidades
+index.html
 
-- Página inicial com a pergunta: **"Você quer namorar comigo?"**
-- Botão "SIM" estático, levando a uma página de confirmação.
-- Botão "NÃO" que tenta fugir do cursor (porque ninguém quer ouvir um "não" 😢).
-- Música de fundo tocando automaticamente com botão de mute/unmute.
-- Estilo fofo e divertido, responsivo para diversas telas.
-- Créditos e Instagram no rodapé da página de confirmação (`sim.html`).
+Visual rosa e romântico
 
----
+Card central com efeito suave
 
-## 📁 Arquivos
+Corações e brilhos animados
 
-- `index.html`: Página com o pedido e botões interativos.
-- `sim.html`: Página de resposta para o botão "SIM", com música de fundo e créditos.
-- `README.md`: Este arquivo de documentação.
+Botão SIM que leva para sim.html
 
----
+Botão NÃO que foge da pessoa 😭
 
-## 🧠 Como usar
+Funciona no PC com mouse
 
-1. Faça o clone do repositório ou baixe os arquivos.
-2. Abra `index.html` em seu navegador.
-3. Clique nos botões e aproveite a diversão!
-4. Se for publicar, suba os arquivos no GitHub Pages ou em algum serviço de hospedagem.
+Funciona no celular com toque
 
----
+Layout responsivo
 
-## 🧑‍🎨 Autor
+sim.html
 
-Feito com 💖 por **Noelstudioss**  
-📷 [Instagram: @noelstudioss](https://instagram.com/noelstudioss)
+Tela especial para quando a pessoa escolhe SIM 💗
 
----
+Visual em formato de cartinha
 
-## ⚠️ Licença
+Coração pulsando
 
-Este projeto é de uso livre e divertido!  
-Sinta-se à vontade para personalizar, modificar e compartilhar! 😄
+Corações flutuando
+
+Efeitos ao clicar ou tocar na tela
+
+Mensagem romântica
+
+Assinatura do Noel
+
+📂 Estrutura
+
+pedido_fofo/
+├── index.html
+├── sim.html
+└── README.md
+
+🚀 Como usar
+
+Coloque index.html e sim.html na mesma pasta.
+
+Abra o index.html no navegador.
+
+Ou envie os arquivos para serviços como GitHub Pages, Cloudflare Pages, Netlify ou Vercel.
+
+Quando a pessoa clicar em SIM, ela será enviada automaticamente para sim.html.
+
+📱 Compatibilidade
+
+O site foi pensado para funcionar tanto em:
+
+Computadores
+
+Celulares Android
+
+iPhone
+
+Tablets
+
+O botão NÃO possui comportamento adaptado para mouse e toque.
+
+💕 Personalização
+
+Você pode alterar facilmente:
+
+A pergunta principal
+
+A mensagem romântica
+
+As cores
+
+Os emojis
+
+O texto da página do SIM
+
+A assinatura
+
+👤 Autor
+
+Feito com carinho por Noel 💗
+
+Instagram: @noelzin_
+
+Feito para ser simples, fofo e impossível de clicar no NÃO. 😭💕

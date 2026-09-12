@@ -35,7 +35,7 @@ A proposta é simples: um pedido de namoro com um toque de humor, estilo e músi
 ## 🧑‍🎨 Autor
 
 Feito com 💖 por **Noelstudioss**  
-📷 [Instagram: @noelzin_](https://instagram.com/noelzin_)
+📷 [Instagram: @noelzinn_](https://instagram.com/noelzinn_)
 
 ---
 
